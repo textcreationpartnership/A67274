@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good and bad newes from Ireland good, in the recovery of the fort and towne of Kinsale from the rebels ... : bad, in the relation of a most detestable and unheard of massacre perpetrated in Vantry upon the bodies of Mr. Iohn Davenant, his wife, children, and whole family by Odonnel Mac Hiwel an arch-rebell and neighbor to the foresaid gentleman / written by I.W. to an alderman of this city.  Also the contents of a letter lately sent to a noble gentleman of this kingdome and read in the honourable House of Commons.</title>
+            <author>I. W., a factor in Dublin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67274</idno>
+            <idno type="STC">Wing W42</idno>
+            <idno type="STC">ESTC R26299</idno>
+            <idno type="EEBO-CITATION">09418360</idno>
+            <idno type="OCLC">ocm 09418360</idno>
+            <idno type="VID">43034</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43034)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1319:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good and bad newes from Ireland good, in the recovery of the fort and towne of Kinsale from the rebels ... : bad, in the relation of a most detestable and unheard of massacre perpetrated in Vantry upon the bodies of Mr. Iohn Davenant, his wife, children, and whole family by Odonnel Mac Hiwel an arch-rebell and neighbor to the foresaid gentleman / written by I.W. to an alderman of this city.  Also the contents of a letter lately sent to a noble gentleman of this kingdome and read in the honourable House of Commons.</title>
+                  <author>I. W., a factor in Dublin.</author>
+               </titleStmt>
+               <extent>[5] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43034:1"/>
+            <!-- PDF PAGE 61 -->
+            <pb facs="tcp:43034:1"/>
+            <!-- PDF PAGE 61 -->
+            <p>Good and Bad Nevves From IRELAND, <hi>GOOD,</hi> In the recovery of the Fort and Towne of <hi>Kinſale</hi> from the Rebels, by the valour of di<g ref="char:EOLhyphen"/>vers Noblemen, with other Commanders of great note and courage.</p>
+            <p>
+               <hi>BAD,</hi> In the relation of a moſt deteſtable and unheard of maſſacre, perpetrated in <hi>Vantry,</hi> upon the bodies of Mr. <hi>Iohn Davenant,</hi> his wife, children, and whole family, by <hi>Odonnel Mac Hiwel</hi> an Arch-Rebell, and neighbour to the foreſaid Gentleman.</p>
+            <p>
+               <hi>Written By</hi> I. VV. <hi>a Factor in Dublin, to an Alderman of this City.</hi>
+            </p>
+            <p>Alſo the contents of a Letter lately ſent to a noble Gentleman of this Kingdome, and read in the Honourable Houſe of Commons.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43034:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <pb facs="tcp:43034:2"/>
+            <!-- PDF PAGE 62 -->
+            <head>Good and bad Newes from <hi>IRE<g ref="char:EOLhyphen"/>LAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Y being at Limbricke ſo long, muſt excuſe my ſilence in the affaires of Dublia; in my de<g ref="char:EOLhyphen"/>parture thence, and returne to Corke, newes came ſuddenly thither that preſent morning being Twelfth even; Iannuary eleventh, 1641. both the Towne and Caſtle of Kingſale were taken from the Rebells, and a moſt glorious victory obtained over them; all Corke ecchoing of this newes, and the poore Engliſh I am ſure rejoycing ſeriouſly, as ſome Iriſh I am ſure hung downe their heads apparently; I and <hi>Iohn Birges</hi> with two more tooke horſe that afternoone, &amp; went forthwith to Kingſale twelve miles diſtant from Corke, the rather becauſe of my buſineſſe with Mr. <hi>Beklow</hi> my Uncle, dwelling over the har<g ref="char:EOLhyphen"/>bour three miles from that Towne, a right worthy and religious Gentleman, of whoſe welfare in theſe times I was deſirous to be enformed; when we came to Kingſale we found the Towne already in the po<g ref="char:EOLhyphen"/>wer
+<pb facs="tcp:43034:3"/>
+               <!-- PDF PAGE 63 -->
+of the Engliſh and reduced by the noble and couragious attempt of Sir <hi>Simon Harcourt,</hi> and Sir <hi>Thomas Temple,</hi> whoſe two Regiments had not made an end of their execution upon the Rebells in the Church yard, at what time we entred the Towne, and I alſo aſſure you, the execution was exceeding hot, theſe two great Commanders gi<g ref="char:EOLhyphen"/>ving command to their ſouldiers, and crying to their hearers, Souldiers, cut off all males, which I aſſure you was done to the purpoſe; ſuch pittifull clamours and mortall groanings I never heard be<g ref="char:EOLhyphen"/>fore, and deſire never to ſee or heare the like again, though of Rebell, whoſe former demeanour I am ſure had deſerved it, could it have been worſe, but theſe two couragious cavalleers have fully as I ſup<g ref="char:EOLhyphen"/>poſe paied ſome of their old ſcores; in the meane time was the Earles of Kildare and Barrimore, with my Lord of Caſtlelions buſied with taking in of the fort, having three thouſand 500. men in their com<g ref="char:EOLhyphen"/>pany, their Lordſh. had five good peeces with them, yet the fort ſtands ſo ſtrongly mounted, and ſo un<g ref="char:EOLhyphen"/>approachable either by farre or neare aſſaults, that their peeces could doe them little good, ſave that by the advice of one <hi>Iohn Simons</hi> a very skilfull gun<g ref="char:EOLhyphen"/>ner, the artillery was drawne up a very ſteep nar<g ref="char:EOLhyphen"/>row and broken paſſage in the rereward juſt before the mouth of the forts gate, upon ſignall given the ſaid rereward very ſpeedily, and in as good order as for the ſtraitneſſe and inconveniency of the place could be expected, retired behinde the artilleries, and cauſed the carriages to advance even to the ve<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:43034:3"/>
+               <!-- PDF PAGE 63 -->
+gates; the Rebells whether out of miſpriſion of our forces that they were not ſo great as indeed to their coſt they afterward found them, or thinking that our rereward did indeed flye becauſe they cried at their retreat, <hi>emine, emine,</hi> the Rebells hearing <hi>emine,</hi> forthwith iſſued out of the fort crying Saint <hi>Patrick</hi> and the croſſe, they flye; but the Can<g ref="char:EOLhyphen"/>noneers, and eſpecially <hi>Iohn Simous</hi> did their duty ſo well, that neither Saint <hi>Patricke</hi> nor the croſſe brought them very farre, for the Gunnes with ſuch dexterity let flye amongſt them, with their five pee<g ref="char:EOLhyphen"/>ces that were laden in ſuch a manner, and ſuch ſtuffe, that forthwith foureſcore and eleven of them were upon the ground, ſome with more members, ſome with leſſe, and the fort wicket not onely beat open, but ſent fifteene yards in; our companies forthwith advanced, and with the loſſe only of Mr. <hi>Freane</hi> an Iriſh man, but an honeſt man, recovered the outward court, but at the gaining of the inward our loſſes were more heavy, for there my Lord of Caſtlelions was brained with a ſtone from one of the battlements, and Mr. <hi>Edward Speneer</hi> ſhot with a collever: to ſpeake truth, the rogues ſhewed great ſtoutneſſe, and reſolution before wee could maſter them within the ſecond court, and never was quarter once demanded by them, nor offered by us, at the laſt ſeeing themſelves no way able to hold out againſt us, either anſwerable to us in num<g ref="char:EOLhyphen"/>ber or ammunition, they deſperately carryed their powder and other combuſtible ſtuffe into a kinde of cellar or vault under the Fort hall, and as wee
+<pb facs="tcp:43034:4"/>
+               <!-- PDF PAGE 64 -->
+were furious in forcing the inward gate of the Fort, upon a ſuddaine it flew open, our men following hot, followed the villaines unadviſedly into the ſaid cellar, where the curſed captives blew up them<g ref="char:EOLhyphen"/>ſelves, and ſome of our men; and thus God bee thanked is that ſtrong Fort recovered, and I truſt will be for hereafter better looked unto, comman<g ref="char:EOLhyphen"/>ding not onely that Towne, but all the Country thereabouts and all the whole harbour, and by a little coſt might be made invincible; let us be wiſe at leaſt after we have ſmarted.</p>
+            <p>But all the reſt is not ſo pleaſant, God tempe<g ref="char:EOLhyphen"/>reth our ſweet with bitter, leſt perhaps we ſhould be too frolick. Decem. 20. being Thurſday, was as execrable and dreadfull a murder acted upon the bodies of a worthy Gentleman, his wife and chil<g ref="char:EOLhyphen"/>dren, and whole family in the Vantry as ever I thinke was heard tell of in the memory of man; this Gentlemans name war Mr. <hi>Iohn Davenant,</hi> Ne<g ref="char:EOLhyphen"/>phew unto the late Biſhop of Sarum, he was a great Spilchard fiſher in the Vantry, there dwelt by him one <hi>Odonnel Swillevan</hi> an incarnat Divell, who came into the houſe of the ſaid Mr. <hi>Davenant</hi> with all his ſavage rebellious crue, who ſeazing the Gentle<g ref="char:EOLhyphen"/>man and his wife, firſt bound them in<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o chaire, ſet them to the fire, then tooke their eldeſt ſonne and ſpitted him before their face, laid him down to the fire, then cauſed the ſervant maid to turne him, after him the ſecond, then a young tender daughter, next they abuſed his wife, after that roaſted her before the poore Gentlemans face, who all the while pro<g ref="char:EOLhyphen"/>voked
+<pb facs="tcp:43034:4"/>
+               <!-- PDF PAGE 64 -->
+them all he could, that ſo by that meanes hee might have his death haſtned rather then to be thus tormented in the tortures of his deareſt and neareſt, the ſight of whoſe miſeries was to him a thouſand deaths, at length they cut out his tongue, then his members, his legs likewiſe, and then roaſted him; was ever ſuch cruelty heard of amongſt the very Canniballs! God grant the Kingdome of England may take ſome ſpeedy courſe, not onely for pre<g ref="char:EOLhyphen"/>vention, but likewiſe for redreſſe and revenge of ſuch unparalleled bloud ſuckers. This I thought good to intimate unto you being as certaine as la<g ref="char:EOLhyphen"/>mentable, deſiring you, and all true Chriſtians there' with you, firſt to commend our caſe to God in your religious prayers, then to the King and Par<g ref="char:EOLhyphen"/>liament how much you thinke it concernes.</p>
+            <div type="part">
+               <head>The extract of a Letter ſent from Ireland, and read in the Houſe of Commons.</head>
+               <p>That the Rebells are lately marched within five miles of Dublin &amp; that the great Councell of Eng<g ref="char:EOLhyphen"/>land would be pleaſed to conſider of their eſtate, and that preſent aid might be ſent, or elſe Dublin is in danger of ſurpriſall: Alſo that a thouſand Spaniards and others that preſerved themſelves by ſwimming were in Ireland arrived in defence of the Rebells.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
